@@ -6,4 +6,6 @@ And Type
 "Ctrl+Alt+Delete.exe" server
 ```
 To change port you can open text.txt and there you can change port
+![Like that](picture.png)
+
 
